@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore dependencies
+/node_modules
+/bower_components
+
+# Ignore logs and temp files
+/logs
+/tmp
+*.log
+
+# Ignore environment-specific files
+.env
